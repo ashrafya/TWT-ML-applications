@@ -127,5 +127,3 @@ plt.show()
 
 print(valid['Close'][30] )
 print(valid['Predictions'][30])
-32.299056502120834-28.43409409504
-
